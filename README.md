@@ -9,3 +9,6 @@ detect_cat_v2.ipy
 - Change the different types of initializations
 references: Neural Network and Deep Learning - Coursera course
 https://www.coursera.org/learn/neural-networks-deep-learning
+
+gradient_checking.ipynb
+- Gradient checking method
